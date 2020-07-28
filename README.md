@@ -13,5 +13,4 @@
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=Libra11&count_private=true&show_icons=true&theme=radical)](https://github.com/Libra11)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libra11theme=radical)](https://github.com/Libra11)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Libra11&repo=Blog_Fronttheme=radical)](https://github.com/Libra11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libra11&theme=radical)](https://github.com/Libra11)
