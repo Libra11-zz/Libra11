@@ -18,13 +18,23 @@
 ---
 
 <!--START_SECTION:waka-->
+
 ```text
-YAML         33 mins         ███████████░░░░░░░░░░░░░░   45.85 % 
-Markdown     22 mins         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+YAML         33 mins         ███████████░░░░░░░░░░░░░░   45.85 %
+Markdown     22 mins         ████████░░░░░░░░░░░░░░░░░   31.54 %
+JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.93 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
+
 <!--END_SECTION:waka-->
+
+## Contact me
+
+```text
+email: libra085925@gmail.com
+QQ: 97220040
+wechat: WX_LIBRA_CODE
+```
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
