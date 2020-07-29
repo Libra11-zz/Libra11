@@ -18,6 +18,13 @@
 ---
 
 <!--START_SECTION:waka-->
+```text
+YAML         33 mins         ███████████░░░░░░░░░░░░░░   45.85 % 
+Markdown     22 mins         ████████░░░░░░░░░░░░░░░░░   31.54 % 
+JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+```
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
