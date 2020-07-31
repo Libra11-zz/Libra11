@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2020 - 29 July, 2020
+Week: 23 July, 2020 - 30 July, 2020
 
 YAML         44 mins         █████████░░░░░░░░░░░░░░░░   36.85 % 
 Markdown     43 mins         █████████░░░░░░░░░░░░░░░░   35.66 % 
