@@ -19,11 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2020 - 30 August, 2020
-
-CSS          1 hr 8 mins     █████████████████████░░░░   83.57 % 
-HTML         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
