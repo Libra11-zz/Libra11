@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2020 - 05 September, 2020
+Week: 30 August, 2020 - 06 September, 2020
 
 CSS          2 hrs 2 mins    ███████████████████████▓░   94.21 % 
 HTML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
