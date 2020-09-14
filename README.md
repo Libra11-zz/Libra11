@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
 LESS         2 hrs 1 min     █████████████████████▒░░░   85.74 % 
 HTML         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
