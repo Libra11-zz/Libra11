@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2020 - 16 September, 2020
+Week: 11 September, 2020 - 18 September, 2020
 
-Vue.js       3 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.49 % 
-JavaScript   1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
-Markdown     53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Vue.js       4 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.46 % 
+JavaScript   1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Markdown     1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+JSON         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Bash         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 <!--END_SECTION:waka-->
 
