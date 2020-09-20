@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
 Vue.js       4 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.46 % 
 JavaScript   1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.90 % 
