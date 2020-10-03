@@ -19,11 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
-
-Text     11 mins         ████████████▓░░░░░░░░░░░░   50.18 % 
-Python   9 mins          █████████▓░░░░░░░░░░░░░░░   38.40 % 
-HTML     2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
