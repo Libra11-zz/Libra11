@@ -19,7 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 08 October, 2020 - 15 October, 2020
+
+Vue.js     20 mins         █████████████████░░░░░░░░   68.36 % 
+Bash       8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 <!--END_SECTION:waka-->
 
