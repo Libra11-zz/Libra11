@@ -19,9 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2020 - 29 October, 2020
+Week: 23 October, 2020 - 30 October, 2020
 
-JavaScript   27 mins         █████████████████████████   100.00 % 
+JavaScript   29 mins         ████████████░░░░░░░░░░░░░   47.99 % 
+Vue.js       29 mins         ████████████░░░░░░░░░░░░░   47.77 % 
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 ```
 <!--END_SECTION:waka-->
 
