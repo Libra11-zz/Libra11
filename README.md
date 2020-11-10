@@ -19,13 +19,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
-CSS          1 hr 26 mins    ██████████████░░░░░░░░░░░   56.07 % 
-JavaScript   27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JSON         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-LESS         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Vue.js       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+CSS    2 hrs 17 mins   ███████████████████████▒░   92.95 % 
+HTML   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 <!--END_SECTION:waka-->
 
