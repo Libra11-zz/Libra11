@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2020 - 27 November, 2020
+Week: 21 November, 2020 - 28 November, 2020
 
-Markdown     3 hrs 46 mins   ████████████████▒░░░░░░░░   65.46 % 
-CSS          1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.82 % 
-HTML         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-LESS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown     2 hrs 29 mins   █████████████░░░░░░░░░░░░   52.24 % 
+CSS          1 hr 23 mins    ███████▒░░░░░░░░░░░░░░░░░   29.19 % 
+JavaScript   32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+HTML         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+LESS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
