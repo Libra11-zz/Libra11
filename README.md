@@ -19,13 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2020 - 04 December, 2020
+Week: 28 November, 2020 - 05 December, 2020
 
-Python       10 hrs 14 mins  █████████████████▒░░░░░░░   68.91 % 
-JavaScript   1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Vue.js       1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Markdown     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-LESS         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Python       10 hrs 14 mins  ████████████████▒░░░░░░░░   65.21 % 
+Vue.js       1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+LESS         1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JavaScript   1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Markdown     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 ```
 <!--END_SECTION:waka-->
 
