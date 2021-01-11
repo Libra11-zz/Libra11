@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 Vue.js       4 hrs           █████████████▒░░░░░░░░░░░   53.54 % 
 JavaScript   1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
