@@ -19,11 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2021 - 20 January, 2021
-
-CSS     54 mins         ████████████████████▒░░░░   81.71 % 
-HTML    8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Other   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
