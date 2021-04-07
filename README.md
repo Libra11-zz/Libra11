@@ -19,9 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
-HTML   10 mins         █████████████████████████   100.00 % 
+Markdown     38 mins         ███████████░░░░░░░░░░░░░░   43.38 % 
+HTML         21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Bash         11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Vue.js       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Git Config   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 <!--END_SECTION:waka-->
 
