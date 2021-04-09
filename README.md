@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2021 - 07 April, 2021
+Week: 01 April, 2021 - 08 April, 2021
 
 Markdown     38 mins         ███████████░░░░░░░░░░░░░░   43.38 % 
 HTML         21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
