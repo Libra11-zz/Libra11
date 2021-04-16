@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
 JavaScript   31 mins         ███████████████████▓░░░░░   79.32 % 
 CSS          6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
