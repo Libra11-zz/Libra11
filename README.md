@@ -19,11 +19,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
-JavaScript   31 mins         ███████████████████▓░░░░░   79.32 % 
-CSS          6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JavaScript   37 mins         ████████████████████▓░░░░   82.07 % 
+CSS          6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 <!--END_SECTION:waka-->
 
