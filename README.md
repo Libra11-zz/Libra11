@@ -19,7 +19,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 April, 2021 - 26 April, 2021
+
+JavaScript   1 hr 9 mins     ██████████▒░░░░░░░░░░░░░░   41.43 % 
+Vue.js       40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+HTML         34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+JSON         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 <!--END_SECTION:waka-->
 
