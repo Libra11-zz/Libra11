@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2021 - 21 May, 2021
+Week: 15 May, 2021 - 22 May, 2021
 
 Vue.js       8 hrs 49 mins   ████████████████████░░░░░   80.43 % 
 JavaScript   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
